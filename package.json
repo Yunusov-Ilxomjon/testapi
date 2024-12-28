@@ -1,0 +1,21 @@
+{
+  "name": "5.-netlifyga-deploy-qilish",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "netlify-cli": "^17.38.1",
+    "serverless-http": "^3.2.0"
+  }
+}
